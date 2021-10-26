@@ -1,1 +1,3 @@
-dm1lc3M6Ly9leUoySWpvZ0lqSWlMQ0FpY0hNaU9pQWlaMmwwYUhWaUxtTnZiUzltY21WbFpuRWdMU0JjZFRnek56ZGNkVFV4TnpBZ0lERWlMQ0FpWVdSa0lqb2dJakV6TWk0eU1qWXVNVGN5TGpFek5DSXNJQ0p3YjNKMElqb2dJakkxTXpneElpd2dJbWxrSWpvZ0lqZGhORFJrTXpnMkxXVTNaV0l0TkRGa05DMDVNbU5sTFdabVltWmlNekppTnprMU55SXNJQ0poYVdRaU9pQWlNQ0lzSUNKdVpYUWlPaUFpZEdOd0lpd2dJblI1Y0dVaU9pQWlibTl1WlNJc0lDSm9iM04wSWpvZ0lpSXNJQ0p3WVhSb0lqb2dJaUlzSUNKMGJITWlPaUFpSWl3Z0luTnVhU0k2SUNJaWZRPT0=
+vless://fd1307ec-b5c8-4033-8cde-142f8f3bd9af@small-forest-f155.frea.workers.dev:443?type=ws&security=tls&path=%2F3320e610&host=small-forest-f155.frea.workers.dev&sni=small-forest-f155.frea.workers.dev#werin1
+
+trojan-go://7aba2dc315@small-forest-f155.frea.workers.dev:443/?type=ws&sni=small-forest-f155.frea.workers.dev&host=small-forest-f155.frea.workers.dev&path=%2F8459bfbf#werin1-trojan-go
