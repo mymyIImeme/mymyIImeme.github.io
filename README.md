@@ -1,3 +1,3 @@
-trojan-go://c452e3ae93@quiet-term-d58d.frea.workers.dev:443/?type=ws&sni=quiet-term-d58d.frea.workers.dev&host=quiet-term-d58d.frea.workers.dev&path=%2Fa53e8e8e#waxin3-trojan-go
-
-vless://eaff1fd2-cff9-4876-9da5-417caf9d69aa@quiet-term-d58d.frea.workers.dev:443?type=ws&security=tls&path=%2F550d976f&host&sni=quiet-term-d58d.frea.workers.dev#waxin3
+vless://86349cf3-7d93-4110-a17d-684de5e7873a@8ca4b62c.ksdjglksfdjg.pages.dev:443?type=ws&security=tls&path=%2Fvl555&host&alpn=#vless%40ksdjglksfdjg.herokuapp.com%3A443
+vless://86349cf3-7d93-4110-a17d-684de5e7873a@8ca4b62c.ksdjglksfdjg.pages.dev:443?type=ws&security=tls&path=%2Fvl555&host=8ca4b62c.ksdjglksfdjg.pages.dev&sni=8ca4b62c.ksdjglksfdjg.pages.dev&alpn=#vless%40ksdjglksfdjg.herokuapp.com%3A443%20%EF%BC%88%E5%89%AF%E6%9C%AC%EF%BC%89
+vmess://ws+tls:86349cf3-7d93-4110-a17d-684de5e7873a-0@8ca4b62c.ksdjglksfdjg.pages.dev:443/?host=8ca4b62c.ksdjglksfdjg.pages.dev&path=/vm666&tlsServerName=8ca4b62c.ksdjglksfdjg.pages.dev#
